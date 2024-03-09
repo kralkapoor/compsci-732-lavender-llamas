@@ -1,0 +1,46 @@
+@font-face {
+  font-family: "moonlite-outline";
+  src: url("/src/assets/fonts/Lorenta 400.ttf");
+}
+
+.landingPageTitle {
+  font-size: 22vw;
+  font-family: "moonlite-outline";
+  font-weight: 100;
+  margin-bottom: 6vh;
+  margin-top: 10vh;
+  letter-spacing: 0.05em;
+  color: #fefefe;
+}
+
+.landingPageSubtitle {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 3.5vw;
+  margin-bottom: 6vh;
+  color: #fefefe;
+}
+
+.llamaSubheading {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 5vh;
+  color: #fefefe;
+  padding: 6vh;
+  padding-top: 5%;
+  text-shadow: #2f2e31;
+  
+}
+
+.buttonStyle :hover{
+  color: #fefefe;
+}
+
+.disclaimerLink {
+  color: #9560f7d8;
+  text-decoration: none;
+}
+
+.disclaimerLink:hover{
+  border-radius: 1.5vh;
+  background-color: #ee69ecbe;
+  color: #fefefe;
+}

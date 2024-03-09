@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "moonlite-outline";
+  src: url("/src/assets/fonts/moonlite-outline.ttf");
+}
+
+.subheading {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 30 vw;
+  color: #f6ecf4;
+  margin-bottom: 5vh;
+  padding-left: 4vw;
+  padding-right: 4vw;
+  text-transform: uppercase;
+}

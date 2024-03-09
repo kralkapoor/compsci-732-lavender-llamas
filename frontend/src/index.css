@@ -1,0 +1,12 @@
+
+@font-face {
+  font-family: "moonlite-outline";
+  src: url("/src/assets/fonts/moonlite-outline.ttf");
+}
+
+body {
+  background-repeat: repeat;
+  background-color: #e1d4e1;
+  background-image: url("assets/Mountain-background.jpg");
+  background-size: auto;
+}

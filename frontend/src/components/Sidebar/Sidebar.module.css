@@ -1,0 +1,17 @@
+.navbarLinks a{
+    color: #58315cd8;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 2px;
+    font-size: x-large;
+    padding: 2vh;
+}
+
+.navbarLinks {
+    font-size: 30px;
+}
+.MuiList-root{
+    font-size: 40px;
+    
+}

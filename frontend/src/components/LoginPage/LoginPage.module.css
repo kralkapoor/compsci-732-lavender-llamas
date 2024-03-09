@@ -1,0 +1,38 @@
+.backgroundImage {
+  margin: 0;
+}
+
+.submitButton {
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 4vh;
+  color: #58315cd8;
+  cursor: pointer;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 14px;
+  margin: 0px 5px;
+  outline: none;
+  padding: 12px 25px;
+  transition: background-color 0.3s, border-color 0.3s;
+  box-shadow: 2px 2px 5px rgba(255, 255, 255, 0.8);
+  margin-top: 5%;
+}
+
+.submitButton:hover {
+  background-color: #ee69ec8b;
+  border-color: #aaa;
+  color: #fefefe;
+}
+
+.formContainer Input {
+  text-align: center;
+}
+
+Input:-webkit-autofill { 
+  -webkit-background-clip: text;
+}
+
+.wrapper {
+  position: relative;
+  display: inline-block;
+}

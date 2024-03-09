@@ -1,0 +1,35 @@
+.Accordion {
+    width: 70%;
+    margin: auto;
+    padding-top: 6vh;
+}
+
+.DescriptionText {
+    text-align: justify;
+    color: #58315cd8;
+    padding: 2vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.SummaryText {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #58315cd8;
+    padding: 2vh;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-family: url("/src/assets/fonts/moonlite-outline.ttf");
+}
+
+.SummaryText p {
+    text-align: center;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+.MuiAccordionSummary-content {
+    justify-content: center;
+}
