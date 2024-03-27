@@ -1,3 +1,14 @@
+This webapp was a university project as part of a web development paper. I was predominantly involved in backend development, with much of the OpenAI API and weather API functionality being my responsibility, along with integrating them onto the frontend.
+
+The stack we settled on was:
+* React
+* Express JS
+* RDS
+
+Please note that this project was initially set up with an AWS RDS instance. I have since migrated the database to a local SQLite variety to avoid cloud costs. Therefore, any references below to RDS should be ignored.
+
+___
+
 # LLAMAFY
 
 Have you ever looked in your wardrobe and decided you have nothing to wear? Have you warn the same outfit two weeks in a row? Who are you? Steve Jobs*?
